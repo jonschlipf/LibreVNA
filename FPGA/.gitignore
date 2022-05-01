@@ -1,6 +1,7 @@
-*
+VNA/_xmsgs
+VNA/iseconfig
+VNA/top_summary.html
 !.gitignore
-!*/
 !*.vhd
 !*.ucf
 !*.ipf
